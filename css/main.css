@@ -1,0 +1,28 @@
+@font-face { 
+    font-family: Courgette-Regular; 
+    src: url('fonts/Courgette-Regular.ttf'); 
+} 
+
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h1 {
+    color: #2B2D42;
+    font-family: Courgette-Regular;
+}
+h4 {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#search {
+    background:#2B2D42;
+    border-radius:8px;
+    text-align:center;
+    color:white;
+}
+#search:hover {
+    background:#3B3D62;
+    color:white;
+}
